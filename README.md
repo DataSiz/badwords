@@ -1,4 +1,4 @@
-# badwords-lib
+# datasiz/badwords
 
 A free, open-source **multilingual dataset of offensive or profane words** — designed for text filtering, moderation, and AI content-safety systems.
 
