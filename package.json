@@ -1,0 +1,17 @@
+{
+  "name": "@datasiz/badwords",
+  "version": "1.0.0",
+  "description": "A multilingual dataset of bad words for filtering and moderation systems.",
+  "main": "data/index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DataSiz/badwords"
+  },
+  "files": [
+    "data/"
+  ],
+  "keywords": ["badwords", "dataset", "language", "filter"],
+  "author": "Nishadil Services Private Limited",
+  "license": "MIT"
+}
