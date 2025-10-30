@@ -1,6 +1,6 @@
 ## **CONTRIBUTING.md**
 
-# Contributing to badwords-lib
+# Contributing to badwords
 
 Thank you for your interest in contributing!  
 This project relies on the community to build and maintain a reliable multilingual dataset of offensive words.  
@@ -10,7 +10,7 @@ Please follow the guidelines below to keep the data consistent and clean.
 
 ## Repository Structure
 
-badwords-lib/
+datasiz/badwords/
 │
 ├── data/
 │ ├── en.txt # English
