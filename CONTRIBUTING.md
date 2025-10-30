@@ -1,6 +1,5 @@
 ## **CONTRIBUTING.md**
 
-```markdown
 # Contributing to badwords-lib
 
 Thank you for your interest in contributing!  
