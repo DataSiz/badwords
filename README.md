@@ -1,0 +1,2 @@
+# badwords
+Multilingal Badwords Dataset
