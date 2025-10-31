@@ -6,12 +6,24 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DataSiz/badwords"
+    "url": "git+https://github.com/DataSiz/badwords.git"
   },
   "files": [
     "data/"
   ],
-  "keywords": ["badwords", "dataset", "language", "filter"],
-  "author": "Nishadil Services Private Limited",
-  "license": "MIT"
+  "keywords": [
+    "badwords",
+    "dataset",
+    "language",
+    "filter"
+  ],
+  "author": "DataSiz.com",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/DataSiz/badwords/issues"
+  },
+  "homepage": "https://github.com/DataSiz/badwords#readme"
 }
